@@ -7,7 +7,6 @@ public class Restaurante_Cher_Leoncio {
 		int numero;
 		
 		do {
-		System.out.println();
 		System.out.println("Seja Bem Vindo ao Chez Leôncio.");
 		System.out.println();
 		System.out.println("Ecolha uma das 6 opções um lanche:\n1-Hamburguer.\n"
