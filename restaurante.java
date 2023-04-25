@@ -66,7 +66,7 @@ public class Restaurante_Cher_Leoncio {
 					+ " a preferência.");
 			
 		} else if (numero == 6) {
-			System.out.println("Vitamina");
+			System.out.println("Vitamina de Abacate");
 			System.out.println("Seu prato foi escolhido com sucesso, agradecemos"
 					+ " a preferência.");
 			
