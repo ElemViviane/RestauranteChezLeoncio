@@ -13,7 +13,7 @@ public class Restaurante_Cher_Leoncio {
 				+ "2-Salada de Frutas.\n3-Bolo de Cenoura c/ Chocolate.\n4-Baurú.\n"
 				+ "5-Pastel de Carne.\n6-Vitamina de Abacate.");
 		
-		System.out.println("Informe um número que corresponde ao prato escolhido: ");
+		System.out.println("\nInforme um número que corresponde ao prato escolhido: ");
 		numero = teclado.nextInt();
 		
 		switch(numero) {
