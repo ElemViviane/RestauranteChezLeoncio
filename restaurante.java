@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //Programa de simulação de restaurante.
-public class Restaurante_Cher_Leoncio {
+public class Restaurante_Chez_Leoncio {
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
 		
