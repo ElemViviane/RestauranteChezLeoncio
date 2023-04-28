@@ -16,29 +16,6 @@ public class Restaurante_Cher_Leoncio {
 		System.out.println("\nInforme um número que corresponde ao prato escolhido: ");
 		numero = teclado.nextInt();
 		
-		switch(numero) {
-		case 1:
-			numero = 1;
-			break;
-		case 2: 
-			numero = 2;
-			break;
-		case 3:
-			numero = 3;
-			break;
-		case 4:
-			numero = 4;
-			break;
-		case 5:
-		    numero = 5;
-		    break;
-		case 6:
-			numero = 6;
-			break;
-		}
-		
-		System.out.println("O prato escolhido foi: " + numero);
-		
 		if (numero == 1) {
 			System.out.println("Hamburguer");
 			System.out.println("Seu prato foi escolhido com sucesso, agradecemos"
